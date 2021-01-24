@@ -1,0 +1,8 @@
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\CoffeeShop.deps.json
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\CoffeeShop.dll
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\CoffeeShop.pdb
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CoffeeShop.dll
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\CoffeeShop.pdb

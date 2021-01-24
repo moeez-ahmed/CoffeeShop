@@ -1,0 +1,7 @@
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\BankAccount.deps.json
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\BankAccount.dll
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\BankAccount.pdb
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccount.AssemblyInfo.cs
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccount.dll
+C:\Users\Hp\Downloads\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\BankAccount.pdb
